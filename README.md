@@ -1,2 +1,2 @@
 # Kookie Logo
-Logo for Cookie Programming Language | [kookielang/kookie](https://github.com/kookielang/kookie)
+Logo for Kookie Programming Language | [kookielang/kookie](https://github.com/kookielang/kookie)
